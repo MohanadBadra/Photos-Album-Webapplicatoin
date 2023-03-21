@@ -6,4 +6,4 @@
 # Add Descriopn
 # View the photo in separated Page
 
-<img src="https://drive.google.com/uc?export=view&id=1hekaciMPZ5KvrHIkGHwRLjTlBy4JQxkV"/>
+<img src="https://drive.google.com/uc?export=view&id=1hekaciMPZ5KvrHIkGHwRLjTlBy4JQxkV" width="350" alt="project">
